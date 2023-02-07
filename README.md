@@ -1,2 +1,5 @@
-My first readme
-It is a beautiful day to learn coding
+<<<<<<< HEAD
+it's a good day to code
+=======
+it's a good day to code
+>>>>>>> update_script
